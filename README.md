@@ -26,4 +26,4 @@ how to set up
 7.Open with Python IDLE (right click by script.py Edit with IDLE Edit with IDLE (your version of python) and edit in it 72 and 73 lines
 
 
-8.(Final step) Run your script and congratulations you now have working Auto badge maker bot (roblox)!
+8.(Final step) Run your script and congratulations you now have working Auto badge maker bot (roblox)!<img src="https://i.imgur.com/Av033Sn.png" width="25px" height="25px">
