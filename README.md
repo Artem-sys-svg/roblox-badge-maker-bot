@@ -5,10 +5,10 @@ hi,
 how to set up
 
 
-1.Download and install Python from here: https://www.python.org/downloads/
+1.Download and install Python from here: [Download Python](https://www.python.org/downloads/)
 
 
-2.Download lastest Roblox badge maker bot from last Release: https://github.com/Artem-sys-svg/roblox-badge-maker-bot/releases/tag/v1
+2.Download lastest Roblox badge maker bot from last Release: [Download Script](https://github.com/Artem-sys-svg/roblox-badge-maker-bot/releases/tag/v1)
 
 
 3.unzip downloaded file
