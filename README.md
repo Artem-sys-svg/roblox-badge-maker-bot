@@ -17,7 +17,7 @@ how to set up
 4.Then press Win+R and type cmd and you shloud see Command Prompt then type into it pip install requests and press enter
 
 
-5.After installing requests complete close Command Prompt, then open your downloaded folder, put into it your icon for badge must be .png formatted
+5.After installing requests complete close Command Prompt, then open your downloaded folder, put into it your icon for badge must be .png formatted and named like this icon.png
 
 
 6.Open with notepad config.py put into it your cookies,universes and save it
