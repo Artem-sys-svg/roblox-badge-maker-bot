@@ -11,13 +11,13 @@ how to set up
 2.Download lastest Roblox badge maker bot from last Release: [Download Script](https://github.com/Artem-sys-svg/roblox-badge-maker-bot/releases/tag/v1)
 
 
-3.unzip downloaded file
+3.Unzip downloaded file
 
 
-4.Then press Win+R and type cmd and you shloud see Command Prompt then type into it pip install requests
+4.Then press Win+R and type cmd and you shloud see Command Prompt then type into it pip install requests and press enter
 
 
-5.After complete close Command Prompt, then open your downloaded folder, put into it your icon for badge must be .png formatted
+5.After installing requests complete close Command Prompt, then open your downloaded folder, put into it your icon for badge must be .png formatted
 
 
 6.Open with notepad config.py put into it your cookies,universes and save it
